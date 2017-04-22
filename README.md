@@ -1,4 +1,7 @@
-# api documentation for  [death (v1.1.0)](https://github.com/jprichardson/node-death#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-death.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-death) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-death.svg)](https://travis-ci.org/npmdoc/node-npmdoc-death)
+# npmdoc-death
+
+#### api documentation for  [death (v1.1.0)](https://github.com/jprichardson/node-death#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-death.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-death) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-death.svg)](https://travis-ci.org/npmdoc/node-npmdoc-death)
+
 #### Gracefully cleanup when termination signals are sent to your process.
 
 [![NPM](https://nodei.co/npm/death.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/death)
@@ -71,7 +74,8 @@
     "scripts": {
         "test": "mocha test"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
